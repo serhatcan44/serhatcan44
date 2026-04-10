@@ -46,13 +46,6 @@
 </p>
 
 
----
-
-## 📊 GitHub İstatistiklerim
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=serhatcan44&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&v=2" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serhatcan44&layout=compact&theme=tokyonight&v=2" />
-</p>
 
 ---
 
