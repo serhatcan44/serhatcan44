@@ -38,7 +38,7 @@
   <img src="https://cdn.simpleicons.org/expo/000000" alt="Expo" width="60" height="60" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="65" height="65" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/linux-icon.svg" alt="Linux" width="65" height="65" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="65" height="65" />
   <img src="https://cdn.simpleicons.org/parrotsecurity/15E0FF" alt="ParrotOS" width="60" height="60" />
   <img src="https://cdn.simpleicons.org/archlinux/1793D1" alt="BlackArch (Arch tabanlı)" width="60" height="60" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="65" height="65" />
